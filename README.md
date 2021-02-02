@@ -3,7 +3,7 @@
 ### User Stories
 
 #### REQUIRED (10pts)
-- [ x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
 #### BONUS
 - [x ] (2pts) Views should be responsive for both landscape/portrait mode.
